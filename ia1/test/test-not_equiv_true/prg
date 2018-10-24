@@ -1,0 +1,1 @@
+if 1 <> 2 then b = 4*2 else c = 1;
